@@ -2,6 +2,8 @@
 
 # 🔍 Sobre o projeto
 
+https://calculadora-gabrielsales.netlify.app/
+
 Calculadora que aceita expressões matemáticas para cálculo.
 
 # 🚀 Tecnologias utilizadas
