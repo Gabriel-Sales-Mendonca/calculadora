@@ -40,6 +40,8 @@ function Calculadora() {
                     this.calcula();
                 }
 
+                console.log("Passei aqui")
+
             }.bind(this));
         }
 
